@@ -1,4 +1,3 @@
-JavaScript Fundamentals
 Welcome to my JavaScript Fundamentals repository! 🚀
 This repository contains a series of exercises designed to strengthen my understanding of essential programming concepts and algorithms. Through these exercises, I've learned how to solve problems using fundamental JavaScript techniques such as arrays, loops, string manipulation, objects, and various data structures.
 Key Skills & Concepts Learned 🧠
