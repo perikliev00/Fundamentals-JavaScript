@@ -7,44 +7,44 @@ Key Skills & Concepts Learned 🧠
     Implementing sorting algorithms (e.g., Bubble Sort, Selection Sort) to organize data.
     Performing search and transformation operations on arrays.
 
-2. Loops & Iteration 🔄
+2. Loops & Iteration 
 
     Using for loops, while loops, and forEach to iterate over arrays and objects.
     Solving problems that involve iterating through data and applying logic on each item.
 
-3. String Manipulation 🔤
+3. String Manipulation 
 
     Reversing strings and checking for palindromes.
     Using methods like .split(), .slice(), .substring(), and .replace() to manipulate and transform strings.
     Counting character frequencies and handling unwanted characters in strings.
 
-4. Objects & Object Manipulation 🏷️
+4. Objects & Object Manipulation 🏷
 
     Working with objects and modifying their properties.
     Implementing nested objects and accessing/modifying their values.
     Comparing objects and performing logical operations on object data.
 
-5. Data Structures 🏗️
+5. Data Structures 
 
     Implementing basic data structures such as Stacks, Queues, and Linked Lists.
     Using Maps and Sets to efficiently store and manage key-value pairs and unique values.
 
-6. Recursion 🔄
+6. Recursion 
 
     Solving problems using recursion to calculate factorials, generate Fibonacci sequences, and more.
     Understanding the importance of base cases to prevent infinite recursion.
 
-7. Mathematical Algorithms ➗
+7. Mathematical Algorithms 
 
     Implementing algorithms to calculate prime numbers, factorials, sums, and averages.
     Using loops and recursion to solve mathematical problems programmatically.
 
-8. Algorithmic Problem Solving 🧠
+8. Algorithmic Problem Solving 
 
     Developing solutions for common algorithmic problems such as searching, sorting, and optimizing solutions.
     Applying time complexity and space complexity principles to improve algorithm efficiency.
 
-Key Exercises & Problems Solved ✨
+Key Exercises & Problems Solved 
 
     Sorting Algorithms: Implemented sorting techniques like Bubble Sort and Selection Sort.
     Searching Algorithms: Wrote algorithms for linear search and binary search.
