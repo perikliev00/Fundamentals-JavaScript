@@ -1,7 +1,7 @@
-Welcome to my JavaScript Fundamentals repository! 🚀
+Welcome to my JavaScript Fundamentals repository! 
 This repository contains a series of exercises designed to strengthen my understanding of essential programming concepts and algorithms. Through these exercises, I've learned how to solve problems using fundamental JavaScript techniques such as arrays, loops, string manipulation, objects, and various data structures.
-Key Skills & Concepts Learned 🧠
-1. Arrays & Array Manipulation 🧩
+Key Skills & Concepts Learned 
+1. Arrays & Array Manipulation 
 
     Traversing and modifying arrays using loops and array methods like .push(), .map(), .filter(), and .reduce().
     Implementing sorting algorithms (e.g., Bubble Sort, Selection Sort) to organize data.
