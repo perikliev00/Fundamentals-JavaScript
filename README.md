@@ -18,7 +18,7 @@ Key Skills & Concepts Learned
     Using methods like .split(), .slice(), .substring(), and .replace() to manipulate and transform strings.
     Counting character frequencies and handling unwanted characters in strings.
 
-4. Objects & Object Manipulation 🏷
+4. Objects & Object Manipulation 
 
     Working with objects and modifying their properties.
     Implementing nested objects and accessing/modifying their values.
